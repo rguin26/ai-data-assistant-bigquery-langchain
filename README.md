@@ -1,4 +1,4 @@
-# AI Data Engineering Project (ai-data-assistant-bigquery-langchain)
+# AI Data Engineering Project
 
 ## AI-powered data assistant built using Data BigQuery, LangChain, and VertexAI
 Referred to the following GitHub repository: https://github.com/nataindata/ai-data-engineering-project
