@@ -1,6 +1,6 @@
 # AI Data Engineering Project
 
-## AI-powered data assistant built using Data BigQuery, LangChain, and VertexAI
+## AI-powered data assistant built using Data BigQuery, LangChain, and Vertex AI
 Referred to the following GitHub repository: https://github.com/nataindata/ai-data-engineering-project
 
 This hands-on project adds generative AI features using LangChain and Large Language Models (LLM) on Google Cloud. A sample Python application is built that is able to understand and respond to human language queries about the relational data stored in the Data warehouse.
